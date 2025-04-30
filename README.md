@@ -63,7 +63,7 @@ As my first project, C.A.B. has been a learning adventure—from understanding A
 
 ## **LinkedIn Showcase**  
 
-C.A.B. is more than just a bot—it’s a step towards making workplaces safer, one Slack message at a time. Explore the full project here: [Your GitHub Repo Link](https://github.com/cybernishman/C.A.B).  
+C.A.B. is more than just a bot—it’s a step towards making workplaces safer, one Slack message at a time. Explore the full project here: [GitHub Repo Link](https://github.com/cybernishman/C.A.B).  
 
 ---
 
